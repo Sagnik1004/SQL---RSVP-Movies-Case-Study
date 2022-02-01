@@ -1,3 +1,4 @@
+
 USE imdb;
 
 /* Now that you have imported the data sets, let’s explore some of the tables. 
